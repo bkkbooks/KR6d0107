@@ -1,0 +1,129 @@
+canonical_identifier: bkk:krp/KR6d0107/v1
+canonical_location: https://kanripo.org/bkk/KR6d0107/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛說廣博嚴淨不退轉輪經
+  identifiers:
+    alt_id:
+    - T09n0268
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T09/T09n0268.xml
+    old_id: T09n0268
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 明
+  label: 明
+  source_xml_id: wit3
+- short: 宮
+  label: 宮
+  source_xml_id: wit4
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 聖
+  label: 聖
+  source_xml_id: wit7
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0107_000.yaml, hash: 'sha256:df3ed9e3c86bee0b98fc38565431cf0dba3d621e91173ee10b5ce7c95124b86f'}
+  - {seq: 1, filename: KR6d0107_001.yaml, hash: 'sha256:a5cdd234c301fdba51c838d8b1acd97f40ee47bf7afc92f5979256a7fd44bb36'}
+  - {seq: 2, filename: KR6d0107_002.yaml, hash: 'sha256:93e026cfe6e60e2dbd53f158e1a8fb7a72e3e494747eb79181868361469e96ad'}
+  - {seq: 3, filename: KR6d0107_003.yaml, hash: 'sha256:ac5f3efd804a319f4f12a5b475776139eb174d0b1b8f93cbe7dbde06516c7d92'}
+  - {seq: 4, filename: KR6d0107_004.yaml, hash: 'sha256:cd5fb0fb748cb59fccff916ed98536dfdc6eabd78b1d5d45d78739760a711ad6'}
+  - {seq: 5, filename: KR6d0107_005.yaml, hash: 'sha256:9b4efa2f755bbb379c01e451a9cc523b1492c770b410e731108fe8ac8b8f2147'}
+  - {seq: 6, filename: KR6d0107_006.yaml, hash: 'sha256:1ca2bb1979cd6fac716995a4aa35b0583df9c3d00cd8df9ec2c91295333ec5bf'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6d0107_001.markers.yaml, hash: 'sha256:31c24c05cae03d4c88cab86c2120ae356aa1beea46ee7e3d634cee2f5d04a767'}
+  - {seq: 2, role: markers, filename: assets/KR6d0107_002.markers.yaml, hash: 'sha256:53ee76d53b5b55c85af6519c237a121fc084b1517ecc280a0f040269e2341d57'}
+  - {seq: 3, role: markers, filename: assets/KR6d0107_003.markers.yaml, hash: 'sha256:4acfc8822dc9353507e215cee2ba4efb3c2e5eebee365c89d95cba35947cd541'}
+  - {seq: 4, role: markers, filename: assets/KR6d0107_004.markers.yaml, hash: 'sha256:41c11df653c10820a8e7d3e979cc512568aa4e3c41f56bdf4bd35a27e5dc1b8d'}
+  - {seq: 5, role: markers, filename: assets/KR6d0107_005.markers.yaml, hash: 'sha256:afe86394c771ac6b7f7de4d300b2c6e12be8b843893388e0f75d0f9abdfb3222'}
+  - {seq: 6, role: markers, filename: assets/KR6d0107_006.markers.yaml, hash: 'sha256:56bf751a2a3f341dab258437f342242e10743a4eaa0e8b24dfa144b406055d4f'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6d0107_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 5602
+  label: '佛說廣博嚴淨不退轉輪經卷
+
+    第一'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0107_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 6011
+  label: '佛說廣博嚴淨不退轉輪經卷
+
+    第二'
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0107_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 7137
+  label: '佛說廣博嚴淨不退轉輪經卷
+
+    第三'
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0107_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 5284
+  label: '佛說廣博嚴淨不退轉輪經卷
+
+    第四'
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0107_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 5976
+  label: '佛說廣博嚴淨不退轉輪經卷
+
+    第五'
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0107_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 6489
+  label: '佛說廣博嚴淨不退轉輪經卷第
+
+    六'
+  type: juan
+  level: 1
+hash: sha256:03bf8e904d84d198a9e7735433b04ed784e83bfa61485426e54337ae0d2071e4
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

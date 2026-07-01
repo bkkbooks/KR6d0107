@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6d0107/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說廣博嚴淨不退轉輪經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T09/T09n0268.xml
+    old_id: T09n0268
+hash: sha256:df3ed9e3c86bee0b98fc38565431cf0dba3d621e91173ee10b5ce7c95124b86f
